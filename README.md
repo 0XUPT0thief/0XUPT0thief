@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0XUPT0thief
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python，machine learning，c++.
 - 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me qq:2928516587
 
